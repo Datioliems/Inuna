@@ -1,0 +1,15 @@
+# Godot/editor local state
+.godot/
+.import/
+*.tmp
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Research-only downloaded reference assets.
+# Keep Abeto/Messenger raw assets local; do not publish or import them into game/.
+research/messenger-abeto-raw-assets-research-only/

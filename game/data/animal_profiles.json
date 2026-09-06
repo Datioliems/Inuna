@@ -1,0 +1,27 @@
+{
+  "player_dog": {
+    "species": "vietnamese_native_dog",
+    "model_path": "procedural:blockout",
+    "material_profile": "toon_dog_vietnamese",
+    "animation_set": ["idle", "walk", "run", "help"],
+    "voice_style": "soft_bark",
+    "npc_role": "healing_friend"
+  },
+  "cat_npc": {
+    "species": "cat",
+    "model_path": "procedural:blockout",
+    "material_profile": "toon_cat_soft",
+    "animation_set": ["idle", "walk", "talk"],
+    "voice_style": "gentle_meow",
+    "npc_role": "first_healing_quest"
+  },
+  "parrot_npc": {
+    "species": "parrot",
+    "model_path": "procedural:blockout",
+    "material_profile": "toon_bird_parrot",
+    "animation_set": ["idle", "flutter"],
+    "voice_style": "small_chirp",
+    "npc_role": "future_social_hint"
+  }
+}
+

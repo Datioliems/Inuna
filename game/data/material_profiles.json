@@ -1,0 +1,75 @@
+{
+  "toon_dog_vietnamese": {
+    "shader": "animal",
+    "palette": {
+      "shadow": "#4c3828",
+      "mid": "#9c7046",
+      "light": "#c99255",
+      "highlight": "#f3df9c"
+    },
+    "outline_width": 0.026,
+    "variation_hue": [0.47, 0.53],
+    "variation_saturation": [0.9, 1.1]
+  },
+  "toon_cat_soft": {
+    "shader": "animal",
+    "palette": {
+      "shadow": "#3d3b45",
+      "mid": "#746f77",
+      "light": "#a59d9a",
+      "highlight": "#eee0b0"
+    },
+    "outline_width": 0.022,
+    "variation_hue": [0.47, 0.53],
+    "variation_saturation": [0.9, 1.05]
+  },
+  "toon_bird_parrot": {
+    "shader": "animal",
+    "palette": {
+      "shadow": "#25534a",
+      "mid": "#4d8a69",
+      "light": "#83ad72",
+      "highlight": "#f0da7c"
+    },
+    "outline_width": 0.02,
+    "variation_hue": [0.47, 0.53],
+    "variation_saturation": [0.9, 1.1]
+  },
+  "toon_leaf": {
+    "shader": "world",
+    "palette": {
+      "shadow": "#2a4d3b",
+      "mid": "#568f66",
+      "light": "#8bb17b",
+      "highlight": "#eadf92"
+    },
+    "outline_width": 0.018,
+    "variation_hue": [0.47, 0.53],
+    "variation_saturation": [0.9, 1.1]
+  },
+  "toon_village": {
+    "shader": "world",
+    "palette": {
+      "shadow": "#4a4b48",
+      "mid": "#7b8279",
+      "light": "#aeb5a4",
+      "highlight": "#f1d889"
+    },
+    "outline_width": 0.02,
+    "variation_hue": [0.48, 0.52],
+    "variation_saturation": [0.9, 1.05]
+  },
+  "toon_memory": {
+    "shader": "world",
+    "palette": {
+      "shadow": "#547176",
+      "mid": "#80b8b1",
+      "light": "#b4d9c7",
+      "highlight": "#fff0a6"
+    },
+    "outline_width": 0.015,
+    "variation_hue": [0.49, 0.52],
+    "variation_saturation": [0.95, 1.1]
+  }
+}
+

@@ -1,0 +1,15 @@
+{
+  "first_healing_quest": {
+    "quest_id": "first_healing_quest",
+    "title": "Ba manh ky uc diu em",
+    "giver_npc_id": "cat_npc",
+    "steps": [
+      "Lai gan meo con ben cay cau.",
+      "Tim 3 manh ky uc quanh lang, song va rung.",
+      "Quay lai de giup meo con binh tam."
+    ],
+    "memory_items": ["village_memory", "river_memory", "forest_memory"],
+    "completion_world_state": "river_hamlet_healed"
+  }
+}
+

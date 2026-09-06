@@ -1,0 +1,22 @@
+; Engine configuration file.
+; Built with Godot 4.7.x in mind. The Mono build can open it, but V1 scripts use GDScript for web preview portability.
+
+config_version=5
+
+[application]
+
+config/name="Cho Ta Healing Game Prototype"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+config/icon=""
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.55, 0.82, 0.79, 1)
+
